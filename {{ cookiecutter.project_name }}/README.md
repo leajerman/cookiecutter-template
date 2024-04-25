@@ -1,7 +1,7 @@
 ---
 title: {{ cookiecutter.project_name }}
 ---
-<!-- ADD DATE; AUTHOR, VERSION ETC. -->
+<!-- ADD DATE; AUTHOR, VERSION ETC. ABOVE -->
 
 
 Project description
