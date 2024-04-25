@@ -20,11 +20,11 @@ Project_name/
 ├── Docs/
 │   └── metadata.yml
 ├── Pipeline/
-│   ├── rules/
-│   ├── results/
-│   │   ├── Figures/
-│   │   └── Tables/
-│   └── scratch/
+│   └── rules/
+├── results/
+│   ├── Figures/
+│   └── Tables/
+├── scratch/
 └── scripts/
 ```
 
