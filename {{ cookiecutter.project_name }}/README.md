@@ -11,20 +11,22 @@ Project description
 Folder structure
 -------
 
+```plaintext
 Project_name/
-|-- readme.md
-|-- Data (symbolic link)
-|   |-- raw
-|   |-- processed
-|-- Docs/
-|-- metadata.yml
-|-- Pipeline/
-|   |-- rules/
-|-- results/
-|   |-- Figures/
-|   |-- Tables/
-|-- scratch/
-|-- scripts/
+├── readme.md
+├── Data (symbolic link)
+│   ├── raw/
+│   └── processed/
+├── Docs/
+│   └── metadata.yml
+├── Pipeline/
+│   ├── rules/
+│   ├── results/
+│   │   ├── Figures/
+│   │   └── Tables/
+│   └── scratch/
+└── scripts/
+```
 
 Credits
 -------
