@@ -32,4 +32,4 @@ Project_name/
 Credits
 -------
 
-This package was created with Cookiecutter and the `https://github.com/hds-sandbox/project-template` project template.
+This package was created with Cookiecutter and the `https://github.com/hds-sandbox/cookiecutter-template` project template.
