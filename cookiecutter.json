@@ -11,6 +11,5 @@
     "author": "Author of the project",
     "date": "Date of project creation, default is today's date",
     "short_description": "Provide a detailed description of the project (context/content)"
-  },
-  "_jinja2_env_vars": {"lstrip_blocks": true, "trim_blocks": true}
+  }
 }
