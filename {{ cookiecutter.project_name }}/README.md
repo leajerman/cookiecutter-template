@@ -8,22 +8,23 @@ Project description
 -------
 <!-- ADD HERE -->
 
-Folder structure
+Folder structure (extended version)
 -------
 
 ```plaintext
 Project_name/
-├── readme.md
-├── Data (symbolic link)
+├── README.md
+├── data (symbolic link)
 │   ├── raw/
 │   └── processed/
-├── Docs/
+├── docs/
 │   └── metadata.yml
-├── Pipeline/
+├── notebooks/
+├── pipeline/
 │   └── rules/
 ├── results/
-│   ├── Figures/
-│   └── Tables/
+│   ├── figures/
+│   └── tables/
 ├── scratch/
 └── scripts/
 ```
